@@ -1,0 +1,4 @@
+.venv/
+build/
+data/*.png
+.DS_Store
